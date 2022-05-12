@@ -1,11 +1,11 @@
-### Hi there, I'm Ruchit Bhardwaj 👋
+## Hi there, I'm Harsh Modi 👋
 
-## Software Engineer | Full Stack Software Developer
+### Software Engineer | Full Stack Software Developer
 
-### Currenly open to Software Engineering Internship roles for Summer 2022
+##### Currently open to Software Engineering Co-Op roles for Fall 2022 and FTE Software Engineer roles starting Dec 2022
 
-- Connect with me on [LinkedIn](https://linkedin.com/in/ruch0401/)
-- View my [portfolio](https://ruchitbhardwaj.tech/)
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/harshmodi97/)
+- View my [portfolio](https://harshmodi.tech/)
 
 ### Languages and Tools:
 
@@ -46,15 +46,14 @@
 
 ## GitHub Stats
 
-![Ruchit's GitHub stats](https://github-readme-stats-ruch0401.vercel.app/api?username=ruch0401&show_icons=true&hide_border=false&count_private=false&include_all_commits=true)
+![Ruchit's GitHub stats](https://github-readme-stats-ruch0401.vercel.app/api?username=harshmodi02&show_icons=true&hide_border=false&count_private=false&include_all_commits=true)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ruch0401)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=harshmodi02)](https://git.io/streak-stats)
 
 ## Top Languages Used
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruch0401&layout=compact)](https://github.com/ruch0401/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshmodi02&layout=compact)](https://github.com/harshmodi02/github-readme-stats)
 
-[website]: https://ruchitbhardwaj.tech/
-[twitter]: https://twitter.com/RuchitBhardwaj/
-[linkedin]: https://linkedin.com/in/ruch0401/
-[github]: https://github.com/ruch0401/
+[website]: https://harshmodi.tech/
+[linkedin]: https://www.linkedin.com/in/harshmodi97/
+[github]: https://github.com/harshmodi02/
